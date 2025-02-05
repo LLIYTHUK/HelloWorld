@@ -1,4 +1,4 @@
-//comments
+//comments.
 
 print('Hello World')
-print(f'Hello World')
+print(f'Hell World')
